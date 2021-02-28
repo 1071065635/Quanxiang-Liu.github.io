@@ -18,7 +18,7 @@ Liang K, **Liu Q X**, Xu J H, et al. Determination and Visualization of Differen
 
 一种基于弱监督学习的胃镜病理图像分类方法 CN 111985536A 第三发明人
 
-一种前列腺数字病理图像的快速 Gleason评分系统 CN 111986148A 第四发明人
+一种前列腺数字病理图像的快速Gleason评分系统 CN 111986148A 第四发明人
 
 一种数字病理切片异常区域快速检测的方法 CN 111047559A 第四发明人
 
@@ -29,8 +29,6 @@ Liang K, **Liu Q X**, Xu J H, et al. Determination and Visualization of Differen
 ### Download 
 
 I uploaded some information on the list, so that you could know me better. I will update my personal homepage in the near future.
-
-```markdown
 
 ** [resume](https://share.weiyun.com/WSshIXug) **
 
