@@ -30,7 +30,7 @@ Liang K, **Liu Q X**, Xu J H, et al. Determination and Visualization of Differen
 
 I uploaded some information on the list, so that you could know me better. I will update my personal homepage in the near future.
 
-** [resume](https://share.weiyun.com/WSshIXug) **
+** [Resume](https://share.weiyun.com/WSshIXug) **
 
 ** [Publications](https://share.weiyun.com/7N7WDj5O) **
 
