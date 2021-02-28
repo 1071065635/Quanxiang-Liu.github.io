@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome ！
 
-You can use the [editor on GitHub](https://github.com/1071065635/Quanxiang-Liu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! welcom to my homepage. I'm Quanxiang Liu(刘全祥), an algorithm engineer of WONDERS INFORMATION CO., LTD[https://www.wondersgroup.com/], my most recent research is application of artificial intelligence in medical image analysis. I graduated from Nanjing Agricultural University in 2018, I had worked as a research assistant and mainly engaged in the intelligent detection of agricultural products in school. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In order to get to know me better, I uploaded some information on the list, and will update my personal homepage in the near future.
 
 ```markdown
-Syntax highlighted code block
+
+** resume **[]
+
+** Publications **[]
+
+** 专利 ** []
+
+
+** 在校证书 ** 
+
+** 工作证书 ** 
+
 
 # Header 1
 ## Header 2
