@@ -1,10 +1,10 @@
 ## Welcome ！
 
-Hello! welcom to my homepage. I'm Quanxiang Liu(刘全祥), an algorithm engineer of [WONDERS INFORMATION CO., LTD](https://www.wondersgroup.com/), my most recent research is application of artificial intelligence in medical image analysis. I graduated from Nanjing Agricultural University in 2018, I had worked as a research assistant and mainly engaged in the intelligent detection of agricultural products in school. 
+Hello! Welcom to my homepage. I'm Quanxiang Liu(刘全祥), an algorithm engineer of [WONDERS INFORMATION CO., LTD](https://www.wondersgroup.com/), my most recent research is application of artificial intelligence in medical image analysis. I graduated from Nanjing Agricultural University in 2018, I had worked as a research assistant and mainly engaged in the intelligent detection of agricultural products in school. 
 
 ### Pubilications
 
-Liang K, **Liu Q X**, Xu J H, et al. Determination and Visualization of Different Levels of Deoxynivalenol in Bulk Wheat Kernels by Hyperspectral Imaging. Journal of Applied Spectroscopy (SCI) 2018, 85(5):953-961.（导师一作
+Liang K, **Liu Q X**, Xu J H, et al. Determination and Visualization of Different Levels of Deoxynivalenol in Bulk Wheat Kernels by Hyperspectral Imaging. Journal of Applied Spectroscopy (SCI) 2018, 85(5):953-961.（导师一作）
 
 梁琨, **刘全祥**, 潘磊庆, 等. 基于高光谱和 CARS-IRIV算法的 '库尔勒香梨 '可溶性
 固形物含量检测. 南京农业大学学报 , 2018, 41(4):760-766. （导师一作）
